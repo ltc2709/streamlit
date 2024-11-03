@@ -1,0 +1,7 @@
+pandas==1.5.2            
+streamlit==1.15.1          
+seaborn==0.12           
+matplotlib.pyplot==3.6.2 
+PIL                 
+io
+protobuf==3.20.1                  
